@@ -1,6 +1,5 @@
 import React from 'react';
 import Color from './Color';
-import { useState } from 'react';
 
 const Menu = (props) => { 
 
