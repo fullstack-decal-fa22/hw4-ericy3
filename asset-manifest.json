@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fullstack-decal-fa22/hw4-ericy3/static/css/main.b6832693.css",
-    "main.js": "/fullstack-decal-fa22/hw4-ericy3/static/js/main.e3bb6d93.js",
-    "static/js/787.263e14e4.chunk.js": "/fullstack-decal-fa22/hw4-ericy3/static/js/787.263e14e4.chunk.js",
-    "index.html": "/fullstack-decal-fa22/hw4-ericy3/index.html",
-    "main.b6832693.css.map": "/fullstack-decal-fa22/hw4-ericy3/static/css/main.b6832693.css.map",
-    "main.e3bb6d93.js.map": "/fullstack-decal-fa22/hw4-ericy3/static/js/main.e3bb6d93.js.map",
-    "787.263e14e4.chunk.js.map": "/fullstack-decal-fa22/hw4-ericy3/static/js/787.263e14e4.chunk.js.map"
+    "main.css": "/blockstagram/static/css/main.b6832693.css",
+    "main.js": "/blockstagram/static/js/main.4fd0e61e.js",
+    "static/js/787.263e14e4.chunk.js": "/blockstagram/static/js/787.263e14e4.chunk.js",
+    "index.html": "/blockstagram/index.html",
+    "main.b6832693.css.map": "/blockstagram/static/css/main.b6832693.css.map",
+    "main.4fd0e61e.js.map": "/blockstagram/static/js/main.4fd0e61e.js.map",
+    "787.263e14e4.chunk.js.map": "/blockstagram/static/js/787.263e14e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6832693.css",
-    "static/js/main.e3bb6d93.js"
+    "static/js/main.4fd0e61e.js"
   ]
 }
