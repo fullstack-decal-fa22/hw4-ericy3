@@ -1,1 +1,2 @@
-https://github.com/fullstack-decal-fa22/hw4-ericy3
+https://fullstack-decal-fa22.github.io/hw4-ericy3
+
